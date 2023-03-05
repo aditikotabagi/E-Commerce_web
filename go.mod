@@ -1,4 +1,4 @@
-module github.com/aditikotabagi/go-ecommerce
+module github.com/aditikotabagi/E-commerce_web
 
 go 1.19
 
